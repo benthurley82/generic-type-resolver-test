@@ -1,0 +1,1 @@
+# generic-type-resolver-test
